@@ -9,7 +9,9 @@ El mini core permite consultar los datos y filtrarlos en un rango de fechas.
 ![image](https://github.com/AlanPachecoCueva/mini-core-web/assets/105956183/34f0b900-f0db-4ea7-a97e-2cf151e15265)
 
 video yt: 
+
 proyecto deployado: https://mini-core-web.onrender.com/
+
 github: https://github.com/AlanPachecoCueva/mini-core-web.git
 
 
