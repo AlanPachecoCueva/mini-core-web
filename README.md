@@ -8,7 +8,7 @@ El mini core permite consultar los datos y filtrarlos en un rango de fechas.
 #Solución
 ![image](https://github.com/AlanPachecoCueva/mini-core-web/assets/105956183/34f0b900-f0db-4ea7-a97e-2cf151e15265)
 
-video yt: 
+video yt: https://youtu.be/RCjoIDBlsno
 
 proyecto deployado: https://mini-core-web.onrender.com/
 
@@ -23,3 +23,10 @@ Links de ayuda MVC y VUE.JS:
 Contactos Alan Pacheco:
 - 0993507153
 - alan.pacheco@udla.edu.ec
+
+
+
+#Pasos para levantar este proyecto
+1. Clonar repositorio GitHub
+2. Abrir terminal dentro del proyecto y ejecutar npm install
+3. Ejecutar el proyecto con npm run serve
