@@ -21,7 +21,7 @@ Links de ayuda MVC y VUE.JS:
 - https://www.youtube.com/watch?v=U65ghhOaqkE
 
 Contactos Alan Pacheco:
-- 0993507153
+- alan.cueva@yahoo.es
 - alan.pacheco@udla.edu.ec
 
 
